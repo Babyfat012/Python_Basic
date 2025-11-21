@@ -1,4 +1,4 @@
-import numpy as np
+import numpi as np
 
 # vector hoá
 # a = np.array([1, 2, 3])
