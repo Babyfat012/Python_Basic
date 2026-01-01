@@ -87,3 +87,6 @@ jupyter nbconvert --to script tuan8/GAN.ipynb
 
 ---
 Open any file above by clicking its link (e.g. [tuan8/GAN.ipynb](tuan8/GAN.ipynb)) to inspect or run the code.
+
+
+# first commit in 2026
